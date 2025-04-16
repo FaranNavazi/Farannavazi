@@ -1,27 +1,68 @@
-## Hi there, I'm Faran Navazi 
+## 👋 Hi there, I'm Faran Navazi
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+  <img width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" alt="Dev Icon"/>
 </p>
 
+---
 
-- I'm **Developer** | **Teacher** | **Learner**
-- Currently Learning **Web Development** and **AWS**
+- 🎯 I'm a **Developer**, **Teacher**, and **Lifelong Learner**
+- 🌱 Currently diving into **Web Development** and **AWS**
+- ⚡ Passionate about clean code, intuitive UI, and teaching what I learn
 
+---
 
-### Feel Free to Contact me.....
+### 📬 Let's Connect
 
 <p align="center">
-	<a href="https://github.com/FaranNavazi/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/farannavazi/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+  <a href="https://github.com/FaranNavazi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/farannavazi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
-### Programming Languages....
+---
+
+### 💻 Tech Stack & Tools
 
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/72/sql-database-administrators-group.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/2x/react.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/windows/2x/node-js.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/mongodb.png"/>
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,mongodb,html,css,cpp,mysql,python" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,npm,postman,sass,cloudflare,tailwind,webflow,vite" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,aws,heroku,netlify" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
 </p>
+
+---
+
+### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaranNavazi&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+### 🧠 Currently Exploring
+- 🌐 **Next.js** and **TypeScript**
+- ☁️ **AWS Lambda**, **S3**, **CloudFront**
+- 📲 Building awesome mobile-first UIs
+
+---
+
+Thanks for stopping by! ⭐️
+
+
+### 📊 GitHub Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FaranNavazi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 💬 About Me
+
+- 🧠 I love solving coding puzzles.
+- ☕ Obsessed with coffee and late-night gaming 😅.
+- 🧳 I’m from Oregon, USA 🌲
+
