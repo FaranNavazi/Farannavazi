@@ -58,7 +58,7 @@ Thanks for stopping by! ⭐️
 
 ### 📊 GitHub Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FaranNavazi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FaranNavazi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 💬 About Me
 
