@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,npm,yarn,postman,sass,cloudflare,tailwind,webflow,vite" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,aws,heroku,netlify" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
 </p>
 
